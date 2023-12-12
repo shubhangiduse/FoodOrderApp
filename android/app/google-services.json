@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120547122269",
+    "project_id": "flutterdemoniveus",
+    "storage_bucket": "flutterdemoniveus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120547122269:android:d19daeacfb2ebdc91c01b4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment_shubhangi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhEmjzYZufY7LXfIUWt75tuieSscOEh-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
