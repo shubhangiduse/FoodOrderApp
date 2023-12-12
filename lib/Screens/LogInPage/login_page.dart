@@ -40,6 +40,7 @@ class _LogInPageState extends State<LogInPage> {
     _passwordController.dispose();
     super.dispose();
   }
+  
 
   void getUserDetailsFromSP() async {
     Map userDetails = await CustomSharedPref.getUserDetails();
